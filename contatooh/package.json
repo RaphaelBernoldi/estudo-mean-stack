@@ -1,0 +1,11 @@
+{
+  "name": "contatooh",
+  "version": "0.0.0",
+  "description": "Artefato de estudo para mean stack javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael Bernoldi",
+  "license": "ISC"
+}
