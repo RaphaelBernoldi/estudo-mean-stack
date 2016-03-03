@@ -1,1 +1,1 @@
-var controller = require('../controller/contato');
+var controller = require('../controllers/contato')();
