@@ -9,7 +9,9 @@
   "author": "Raphael Bernoldi",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.6.7",
     "ejs": "^2.4.1",
-    "express": "^4.8.8"
+    "express": "^4.8.8",
+    "method-override": "^2.3.5"
   }
 }
