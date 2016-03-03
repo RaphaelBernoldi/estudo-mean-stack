@@ -9,6 +9,7 @@
   "author": "Raphael Bernoldi",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.4.1",
     "express": "^4.8.8"
   }
 }
